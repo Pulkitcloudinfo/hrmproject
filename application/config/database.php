@@ -75,8 +75,8 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'database-2.ctymiwqv0tan.us-east-1.rds.amazonaws.com',
-	'username' => 'cloudhrm',
+	'hostname' => 'database-3.crhv1zv05bqm.us-west-2.rds.amazonaws.com',
+	'username' => 'admin',
 	'password' => '987654321',
 	'database' => 'hrsystemci',
 	'dbdriver' => 'mysqli',
